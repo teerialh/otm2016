@@ -1,3 +1,3 @@
-#KVG
+#Harjoitus
 
-No *joo* sitten. _hajoo paskaas_
+Disregard *this*. _aquire time_
